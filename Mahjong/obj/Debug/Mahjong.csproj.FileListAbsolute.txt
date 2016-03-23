@@ -1,0 +1,12 @@
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\bin\Debug\Mahjong.exe.config
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\bin\Debug\Mahjong.exe
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\bin\Debug\Mahjong.pdb
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.csprojResolveAssemblyReference.cache
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.MainForm.resources
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.Properties.Resources.resources
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.csproj.GenerateResource.Cache
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.exe
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.pdb
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.Field.resources
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.Tile.resources
+D:\dev\Cutelittlepenguin\Mahjong\Mahjong\obj\Debug\Mahjong.NewGameForm.resources
